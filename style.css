@@ -1,0 +1,8 @@
+.innerdiv{
+    border:solid;color: brown;
+    padding: 20px;
+    margin: 5%;
+}
+.outerdiv{
+    border: dotted;color: black;
+}
