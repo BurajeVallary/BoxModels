@@ -2,6 +2,7 @@
     border:solid;color: brown;
     padding: 20px;
     margin: 5%;
+    font-style: italic;
 }
 .outerdiv{
     border: dotted;color: black;
